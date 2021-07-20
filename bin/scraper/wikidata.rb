@@ -4,7 +4,7 @@
 require 'every_politician_scraper/wikidata_query'
 
 query = <<SPARQL
-  SELECT (STRAFTER(STR(?member), STR(wd:)) AS ?item) ?id ?name ?country
+  SELECT (STRAFTER(STR(?member), STR(wd:)) AS ?item) ?id ?name ?country (STRAFTER(STR(?ps), '/statement/') AS ?psid)
   WHERE {
     ?member p:P39 ?ps .
     ?ps ps:P39 wd:Q27169 ; pq:P2937 wd:Q64038205 .
