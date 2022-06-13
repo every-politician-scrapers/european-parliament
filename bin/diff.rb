@@ -7,7 +7,7 @@ require 'pry'
 # Process the data from each source before comparison
 class Comparison < EveryPoliticianScraper::Comparison
   def wikidata_csv_options
-    { converters: [->(val) { val.to_s.upcase }] }
+    { converters: [->(val) { val.to_s.gsub('Republic of Ireland', 'Ireland').upcase }] }
   end
 
   def external_csv_options
