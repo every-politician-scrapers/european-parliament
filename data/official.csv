@@ -7,6 +7,7 @@ id,name,country,group,national_group
 198096,Mazaly AGUILAR,Spain,European Conservatives and Reformists Group,VOX
 125045,Clara AGUILERA,Spain,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista Obrero Español
 204335,Alviina ALAMETSÄ,Finland,Group of the Greens/European Free Alliance,Vihreä liitto
+237224,João ALBUQUERQUE,Portugal,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista
 197836,Alexander ALEXANDROV YORDANOV,Bulgaria,Group of the European People's Party (Christian Democrats),Union of Democratic Forces
 96750,François ALFONSI,France,Group of the Greens/European Free Alliance,Régions et Peuples Solidaires
 197848,Atidzhe ALIEVA-VELI,Bulgaria,Renew Europe Group,Movement for Rights and Freedoms
@@ -38,7 +39,6 @@ id,name,country,group,national_group
 197495,Marek Paweł BALT,Poland,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Nowa Lewica
 131580,Jordan BARDELLA,France,Identity and Democracy Group,Rassemblement national
 197433,Katarina BARLEY,Germany,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sozialdemokratische Partei Deutschlands
-197684,Pernando BARRENA ARZA,Spain,The Left group in the European Parliament - GUE/NGL,EH BILDU
 197808,Pietro BARTOLO,Italy,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partito Democratico
 197671,Traian BĂSESCU,Romania,Group of the European People's Party (Christian Democrats),Partidul Mișcarea Populară
 197610,Alessandra BASSO,Italy,Identity and Democracy Group,Lega
@@ -80,7 +80,6 @@ id,name,country,group,national_group
 197439,Damian BOESELAGER,Germany,Group of the Greens/European Free Alliance,Volt
 197636,Ioan-Rareş BOGDAN,Romania,Group of the European People's Party (Christian Democrats),Partidul Naţional Liberal
 125004,Franc BOGOVIČ,Slovenia,Group of the European People's Party (Christian Democrats),Slovenska ljudska stranka
-197521,Manuel BOMPARD,France,The Left group in the European Parliament - GUE/NGL,La France Insoumise
 124814,Simona BONAFÈ,Italy,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partito Democratico
 197788,Anna BONFRISCO,Italy,Identity and Democracy Group,Lega
 101039,Paolo BORCHIA,Italy,Identity and Democracy Group,Lega
@@ -122,6 +121,7 @@ id,name,country,group,national_group
 197786,Susanna CECCARDI,Italy,Identity and Democracy Group,Lega
 197641,Sara CERDAS,Portugal,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista
 197505,Catherine CHABAUD,France,Renew Europe Group,Mouvement Démocrate
+236052,Patricia CHAGNON,France,Identity and Democracy Group,Rassemblement national
 197782,Mohammed CHAHIM,Netherlands,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partij van de Arbeid
 197529,Leila CHAIBI,France,The Left group in the European Parliament - GUE/NGL,La France Insoumise
 124708,Dita CHARANZOVÁ,Czechia,Renew Europe Group,ANO 2011
@@ -155,16 +155,16 @@ id,name,country,group,national_group
 96747,Arnaud DANJEAN,France,Group of the European People's Party (Christian Democrats),Les Républicains
 124821,Nicola DANTI,Italy,Renew Europe Group,Italia Viva
 197608,Gianantonio DA RE,Italy,Identity and Democracy Group,Lega
+236050,Marie DAUCHY,France,Identity and Democracy Group,Rassemblement national
 197556,Ivan DAVID,Czechia,Identity and Democracy Group,Svoboda a přímá demokracie
-204414,Margarita DE LA PISA CARRIÓN,Spain,European Conservatives and Reformists Group,VOX
-204333,Salvatore DE MEO,Italy,Group of the European People's Party (Christian Democrats),Forza Italia
 228604,Ilan DE BASSO,Sweden,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Arbetarepartiet- Socialdemokraterna
 96891,Paolo DE CASTRO,Italy,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partito Democratico
-197504,Jérémy DECERLE,France,Renew Europe Group,Liste Renaissance
+197504,Jérémy DECERLE,France,Renew Europe Group,Liste L'Europe Ensemble
 197531,Gwendoline DELBOS-CORFIELD,France,Group of the Greens/European Free Alliance,Europe Écologie
 124714,Andor DELI,Hungary,Non-attached Members,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
 96868,Karima DELLI,France,Group of the Greens/European Free Alliance,Europe Écologie
 197472,Filip DE MAN,Belgium,Identity and Democracy Group,Vlaams Belang
+204333,Salvatore DE MEO,Italy,Group of the European People's Party (Christian Democrats),Forza Italia
 197468,Özlem DEMIREL,Germany,The Left group in the European Parliament - GUE/NGL,DIE LINKE.
 197453,Anna DEPARNAY-GRUNENBERG,Germany,Group of the Greens/European Free Alliance,Bündnis 90/Die Grünen
 96826,Tamás DEUTSCH,Hungary,Non-attached Members,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
@@ -182,6 +182,7 @@ id,name,country,group,national_group
 124693,Pascal DURAND,France,Renew Europe Group,Liste Renaissance
 197766,Lucia ĎURIŠ NICHOLSONOVÁ,Slovakia,Renew Europe Group,Independent
 124873,Angel DZHAMBAZKI,Bulgaria,European Conservatives and Reformists Group,VMRO
+237465,Matthias ECKE,Germany,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sozialdemokratische Partei Deutschlands
 28226,Christian EHLER,Germany,Group of the European People's Party (Christian Democrats),Christlich Demokratische Union Deutschlands
 96725,Bas EICKHOUT,Netherlands,Group of the Greens/European Free Alliance,GroenLinks
 209091,Cyrus ENGERER,Malta,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partit Laburista
@@ -227,11 +228,10 @@ id,name,country,group,national_group
 197742,Isabel GARCÍA MUÑOZ,Spain,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista Obrero Español
 28298,Iratxe GARCÍA PÉREZ,Spain,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista Obrero Español
 96991,Eider GARDIAZABAL RUBIAL,Spain,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista Obrero Español
-197554,Luis GARICANO,Spain,Renew Europe Group,Ciudadanos – Partido de la Ciudadanía
 197628,Jean-Paul GARRAUD,France,Identity and Democracy Group,Rassemblement national
 183916,Alexandra GEESE,Germany,Group of the Greens/European Free Alliance,Bündnis 90/Die Grünen
 96833,Jens GEIER,Germany,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sozialdemokratische Partei Deutschlands
-197794,Chiara GEMMA,Italy,Non-attached Members,Insieme per il futuro
+197794,Chiara GEMMA,Italy,Non-attached Members,Impegno Civico
 197416,Giorgos GEORGIOU,Cyprus,The Left group in the European Parliament - GUE/NGL,Progressive Party of Working People - Left - New Forces
 197819,Alexis GEORGOULIS,Greece,The Left group in the European Parliament - GUE/NGL,Coalition of the Radical Left
 197436,Helmut GEUKING,Germany,Group of the European People's Party (Christian Democrats),Familien-Partei Deutschlands
@@ -260,7 +260,6 @@ id,name,country,group,national_group
 197543,Bernard GUETTA,France,Renew Europe Group,Liste Renaissance
 96952,Sylvie GUILLAUME,France,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Parti socialiste
 88715,José GUSMÃO,Portugal,The Left group in the European Parliament - GUE/NGL,Bloco de Esquerda
-124991,Jytte GUTELAND,Sweden,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Arbetarepartiet- Socialdemokraterna
 198063,Márton GYÖNGYÖSI,Hungary,Non-attached Members,Jobbik Magyarországért Mozgalom
 96830,Enikő GYŐRI,Hungary,Non-attached Members,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
 23816,András GYÜRK,Hungary,Non-attached Members,Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt
@@ -274,7 +273,7 @@ id,name,country,group,national_group
 96752,Martin HÄUSLING,Germany,Group of the Greens/European Free Alliance,Bündnis 90/Die Grünen
 2054,Heidi HAUTALA,Finland,Group of the Greens/European Free Alliance,Vihreä liitto
 197646,Mircea-Gheorghe HAVA,Romania,Group of the European People's Party (Christian Democrats),Partidul Naţional Liberal
-135511,Valérie HAYER,France,Renew Europe Group,La République en marche
+135511,Valérie HAYER,France,Renew Europe Group,Renaissance
 125023,Anja HAZEKAMP,Netherlands,The Left group in the European Parliament - GUE/NGL,Partij voor de Dieren
 197682,Hannes HEIDE,Austria,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sozialdemokratische Partei Österreichs
 197800,Eero HEINÄLUOMA,Finland,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti
@@ -354,7 +353,6 @@ id,name,country,group,national_group
 97968,Andrey KOVATCHEV,Bulgaria,Group of the European People's Party (Christian Democrats),Citizens for European Development of Bulgaria
 197481,Maximilian KRAH,Germany,Identity and Democracy Group,Alternative für Deutschland
 124891,Zdzisław KRASNODĘBSKI,Poland,European Conservatives and Reformists Group,Prawo i Sprawiedliwość
-1854,Constanze KREHL,Germany,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sozialdemokratische Partei Deutschlands
 197532,Elżbieta KRUK,Poland,European Conservatives and Reformists Group,Prawo i Sprawiedliwość
 197843,Andrius KUBILIUS,Lithuania,Group of the European People's Party (Christian Democrats),Tėvynės sąjunga-Lietuvos krikščionys demokratai
 197395,Alice KUHNKE,Sweden,Group of the Greens/European Free Alliance,Miljöpartiet de gröna
@@ -373,11 +371,9 @@ id,name,country,group,national_group
 1909,Bernd LANGE,Germany,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sozialdemokratische Partei Deutschlands
 38398,Esther de LANGE,Netherlands,Group of the European People's Party (Christian Democrats),Christen Democratisch Appèl
 197461,Katrin LANGENSIEPEN,Germany,Group of the Greens/European Free Alliance,Bündnis 90/Die Grünen
-197597,Hélène LAPORTE,France,Identity and Democracy Group,Rassemblement national
 197698,Pierre LARROUTUROU,France,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Nouvelle Donne
 230085,Camilla LAURETI,Italy,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partito Democratico
 124738,Gilles LEBRETON,France,Identity and Democracy Group,Rassemblement national
-197686,Julie LECHANTEUX,France,Identity and Democracy Group,Rassemblement national
 197393,David LEGA,Sweden,Group of the European People's Party (Christian Democrats),Kristdemokraterna
 96796,Ryszard Antoni LEGUTKO,Poland,European Conservatives and Reformists Group,Prawo i Sprawiedliwość
 197635,Maria-Manuel LEITÃO-MARQUES,Portugal,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista
@@ -430,10 +426,10 @@ id,name,country,group,national_group
 197841,Liudas MAŽYLIS,Lithuania,Group of the European People's Party (Christian Democrats),Tėvynės sąjunga-Lietuvos krikščionys demokratai
 204418,Nora MEBAREK,France,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Parti socialiste
 197662,Vangelis MEIMARAKIS,Greece,Group of the European People's Party (Christian Democrats),Nea Demokratia
-130256,Dace MELBĀRDE,Latvia,European Conservatives and Reformists Group,"Nacionālā apvienība ""Visu Latvijai!""-""Tēvzemei un Brīvībai/LNNK"""
-197567,Karen MELCHIOR,Denmark,Renew Europe Group,Det Radikale Venstre
-124765,Joëlle MÉLIN,France,Identity and Democracy Group,Rassemblement national
+130256,Dace MELBĀRDE,Latvia,Non-attached Members,"Partija ""VIENOTĪBA"""
+197567,Karen MELCHIOR,Denmark,Renew Europe Group,Independent
 96978,Nuno MELO,Portugal,Group of the European People's Party (Christian Democrats),Partido do Centro Democrático Social-Partido Popular
+236053,Marina MESURE,France,The Left group in the European Parliament - GUE/NGL,La France Insoumise
 118859,Roberta METSOLA,Malta,Group of the European People's Party (Christian Democrats),Partit Nazzjonalista
 193292,Tilly METZ,Luxembourg,Group of the Greens/European Free Alliance,Déi Gréng - Les Verts
 190518,Jörg MEUTHEN,Germany,Non-attached Members,Deutsche Zentrumspartei
@@ -442,7 +438,9 @@ id,name,country,group,national_group
 197497,Sven MIKSER,Estonia,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sotsiaaldemokraatlik Erakond
 197824,Giuseppe MILAZZO,Italy,European Conservatives and Reformists Group,Fratelli d'Italia
 28400,Francisco José MILLÁN MON,Spain,Group of the European People's Party (Christian Democrats),Partido Popular
-197540,Leszek MILLER,Poland,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Nowa Lewica
+197540,Leszek MILLER,Poland,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Independent
+236051,Eric MINARDI,France,Identity and Democracy Group,Rassemblement national
+24942,Ana MIRANDA,Spain,Group of the Greens/European Free Alliance,Bloque Nacionalista Galego
 212855,Alin MITUȚA,Romania,Renew Europe Group,Reînnoim Proiectul European al României
 197805,Silvia MODIG,Finland,The Left group in the European Parliament - GUE/NGL,Vasemmistoliitto
 124722,Csaba MOLNÁR,Hungary,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Demokratikus Koalíció
@@ -473,6 +471,7 @@ id,name,country,group,national_group
 107212,Andrey NOVAKOV,Bulgaria,Group of the European People's Party (Christian Democrats),Citizens for European Development of Bulgaria
 197542,Janina OCHOJSKA,Poland,Group of the European People's Party (Christian Democrats),Independent
 197432,Jan-Christoph OETJEN,Germany,Renew Europe Group,Freie Demokratische Partei
+237779,Carina OHLSSON,Sweden,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Arbetarepartiet- Socialdemokraterna
 28288,Jan OLBRYCHT,Poland,Group of the European People's Party (Christian Democrats),Platforma Obywatelska
 197838,Juozas OLEKAS,Lithuania,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Lietuvos socialdemokratų partija
 197687,Philippe OLIVIER,France,Identity and Democracy Group,Rassemblement national
@@ -504,14 +503,15 @@ id,name,country,group,national_group
 136236,João PIMENTA LOPES,Portugal,The Left group in the European Parliament - GUE/NGL,Partido Comunista Português
 197828,Manu PINEDA,Spain,The Left group in the European Parliament - GUE/NGL,Izquierda Unida
 197629,Maxette PIRBAKAS,France,Non-attached Members,Indépendant
+204414,Margarita DE LA PISA CARRIÓN,Spain,European Conservatives and Reformists Group,VOX
 197590,Giuliano PISAPIA,Italy,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Independent
 197663,Dragoş PÎSLARU,Romania,Renew Europe Group,Reînnoim Proiectul European al României
-197732,Manuel PIZARRO,Portugal,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista
 38595,Rovana PLUMB,Romania,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partidul Social Democrat
 124704,Stanislav POLČÁK,Czechia,Group of the European People's Party (Christian Democrats),Starostové a nezávisli
 197404,Jessica POLFJÄRD,Sweden,Group of the European People's Party (Christian Democrats),Moderaterna
 197765,Peter POLLÁK,Slovakia,Group of the European People's Party (Christian Democrats),Obyčajní ľudia a nezávislé osobnosti
 204443,Clara PONSATÍ OBIOLS,Spain,Non-attached Members,Junts per Catalunya - Lliures per Europa
+237320,Eva Maria POPTCHEVA,Spain,Renew Europe Group,Ciudadanos – Partido de la Ciudadanía
 96801,Tomasz Piotr PORĘBA,Poland,European Conservatives and Reformists Group,Prawo i Sprawiedliwość
 125706,Jiří POSPÍŠIL,Czechia,Group of the European People's Party (Christian Democrats),TOP 09 a Starostové
 197820,Nicola PROCACCINI,Italy,European Conservatives and Reformists Group,Fratelli d'Italia
@@ -583,7 +583,7 @@ id,name,country,group,national_group
 124747,Pedro SILVA PEREIRA,Portugal,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Partido Socialista
 103746,Michal ŠIMEČKA,Slovakia,Renew Europe Group,Progresívne Slovensko
 197426,Sven SIMON,Germany,Group of the European People's Party (Christian Democrats),Christlich Demokratische Union Deutschlands
-197935,Ivan Vilibor SINČIĆ,Croatia,Non-attached Members,Živi Zid
+197935,Ivan Vilibor SINČIĆ,Croatia,Non-attached Members,KLJUČ Hrvatske
 96932,Birgit SIPPEL,Germany,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Sozialdemokratische Partei Deutschlands
 197390,Sara SKYTTEDAL,Sweden,Group of the European People's Party (Christian Democrats),Kristdemokraterna
 197849,Andrey SLABAKOV,Bulgaria,European Conservatives and Reformists Group,VMRO
@@ -600,7 +600,6 @@ id,name,country,group,national_group
 124852,Sergei STANISHEV,Bulgaria,Group of the Progressive Alliance of Socialists and Democrats in the European Parliament,Bulgarian Socialist Party
 124929,Ivan ŠTEFANEC,Slovakia,Group of the European People's Party (Christian Democrats),Kresťanskodemokratické hnutie
 58766,Nicolae ŞTEFĂNUȚĂ,Romania,Renew Europe Group,Uniunea Salvați România
-197399,Jessica STEGRUD,Sweden,European Conservatives and Reformists Group,Sverigedemokraterna
 197772,Tineke STRIK,Netherlands,Group of the Greens/European Free Alliance,GroenLinks
 134605,Ramona STRUGARIU,Romania,Renew Europe Group,Reînnoim Proiectul European al României
 197553,Beata SZYDŁO,Poland,European Conservatives and Reformists Group,Prawo i Sprawiedliwość
